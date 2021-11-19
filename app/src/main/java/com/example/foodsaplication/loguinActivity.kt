@@ -29,5 +29,16 @@ class loguinActivity : AppCompatActivity() {
 
             startActivity(intent)
         }
+
+        btnLoguin = findViewById(R.id.log_in)
+        btnLoguin.setOnClickListener {
+
+            val intent = Intent(this, RestaurantesActivity::class.java)
+            Toast.makeText(this, "Escolha um Restaurante", Toast.LENGTH_SHORT).show()
+
+            startActivity(intent)
+
+
+        }
     }
 }

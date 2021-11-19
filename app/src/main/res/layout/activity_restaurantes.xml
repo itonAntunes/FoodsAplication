@@ -19,11 +19,17 @@
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:ignore="MissingConstraints"/>
+        tools:ignore="MissingConstraints">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
 
     <ImageButton
         android:layout_width="match_parent"
-        android:layout_height="200dp"/>
+        android:layout_height="200dp"
+        android:src="@drawable/fogazza"/>
 
     <TextView
         android:layout_width="match_parent"
@@ -40,6 +46,7 @@
         android:textSize="20dp"
         android:padding="15dp"/>
     <ImageButton
+        android:src="@drawable/pizzas"
         android:layout_width="match_parent"
         android:layout_height="200dp"/>
 
@@ -47,7 +54,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/black"
-        android:text="Fogazza Beth"
+        android:text="Sergipano Pizzaria"
         android:textSize="35dp"
         android:padding="15dp"/>
     <TextView
@@ -57,15 +64,17 @@
         android:text="Endereço: Rua Carlos Facchina, XXX Telefone :XX XXXXX-XXXX "
         android:textSize="20dp"
         android:padding="15dp"/>
+
     <ImageButton
         android:layout_width="match_parent"
-        android:layout_height="200dp"/>
+        android:layout_height="200dp"
+        android:src="@drawable/bebidasbig"/>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/black"
-        android:text="Fogazza Beth"
+        android:text="Adega Bigão"
         android:textSize="35dp"
         android:padding="15dp"/>
     <TextView
@@ -76,10 +85,9 @@
         android:textSize="20dp"
         android:padding="15dp"/>
 
+        </LinearLayout>
 
-
-
-
+    </ScrollView>
 
 
 </LinearLayout>
