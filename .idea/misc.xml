@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Everton/Desktop/Android Projetos/FoodsAplication/app/src/main/res/layout/activity_cardapio.xml" value="0.25" />
         <entry key="..\:/Users/Everton/Desktop/Android Projetos/FoodsAplication/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/Everton/Desktop/Android Projetos/FoodsAplication/app/src/main/res/layout/activity_register.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/Everton/Desktop/Android Projetos/FoodsAplication/app/src/main/res/layout/activity_restaurantes.xml" value="0.15" />
+        <entry key="..\:/Users/Everton/Desktop/Android Projetos/FoodsAplication/app/src/main/res/layout/cardapiotest.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/Everton/Desktop/Android Projetos/FoodsAplication/app/src/main/res/layout/loguin_layout.xml" value="0.25" />
       </map>
     </option>

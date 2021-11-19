@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FoodsAplication">
         <activity
+            android:name=".CardapioTest"
+            android:exported="false" />
+        <activity
             android:name=".cardapio"
             android:exported="false" />
         <activity
