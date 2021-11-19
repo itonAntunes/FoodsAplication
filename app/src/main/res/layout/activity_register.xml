@@ -48,10 +48,10 @@
         android:layout_marginLeft="15dp"
         android:layout_marginRight="15dp"/>
     <TextView
-        android:id="@+id/senha_confirma"
+        android:id="@+id/senha_principal"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Password:"
+        android:text="Senha:"
         android:layout_marginTop="15dp"
         android:layout_marginLeft="15dp"/>
 
@@ -63,10 +63,10 @@
         android:layout_marginLeft="15dp"
         android:layout_marginRight="15dp"/>
     <TextView
-        android:id="@+id/senha"
+        android:id="@+id/senha_confirma"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Password confirm:"
+        android:text="Confirmar Senha:"
         android:layout_marginTop="15dp"
         android:layout_marginLeft="15dp"/>
 
@@ -82,7 +82,7 @@
     <Button
 
         android:id="@+id/register"
-        android:text="Register"
+        android:text="Registrar"
         android:backgroundTint="@color/teal_700"
         android:layout_width="match_parent"
         android:layout_height="80dp"

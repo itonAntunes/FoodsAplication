@@ -30,7 +30,7 @@ class loguinActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-        btnLoguin = findViewById(R.id.log_in)
+        btnLoguin = findViewById(R.id.entrar)
         btnLoguin.setOnClickListener {
 
             val intent = Intent(this, RestaurantesActivity::class.java)
