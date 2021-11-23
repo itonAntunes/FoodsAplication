@@ -24,7 +24,7 @@ class loguinActivity : AppCompatActivity() {
         btnRegistro = findViewById(R.id.register)
         btnRegistro.setOnClickListener {
 
-            val intent = Intent(this, RestaurantesActivity::class.java)
+            val intent = Intent(this, Register::class.java)
             Toast.makeText(this, "Preencha todos os Dados", Toast.LENGTH_SHORT).show()
 
             startActivity(intent)

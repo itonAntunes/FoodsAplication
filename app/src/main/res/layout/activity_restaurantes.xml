@@ -46,7 +46,8 @@
         android:text="Endereço: Rua Carlos Facchina, XXX Telefone :XX XXXXX-XXXX "
         android:textSize="20dp"
         android:padding="15dp"/>
-    <ImageButton
+    <ImageView
+        android:id="@+id/pizzaria"
         android:src="@drawable/pizzas"
         android:layout_width="match_parent"
         android:layout_height="200dp"/>
@@ -66,7 +67,8 @@
         android:textSize="20dp"
         android:padding="15dp"/>
 
-    <ImageButton
+    <ImageView
+        android:id="@+id/bebidasBig"
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:src="@drawable/bebidasbig"/>

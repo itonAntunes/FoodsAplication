@@ -3,11 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Everton/Desktop/Android Projetos/FoodsAplication/app/src/main/res/drawable/tela_dois.xml" value="0.375" />
         <entry key="..\:/Users/Everton/Desktop/Android Projetos/FoodsAplication/app/src/main/res/layout/activity_cardapio.xml" value="0.25" />
         <entry key="..\:/Users/Everton/Desktop/Android Projetos/FoodsAplication/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/Everton/Desktop/Android Projetos/FoodsAplication/app/src/main/res/layout/activity_register.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/Everton/Desktop/Android Projetos/FoodsAplication/app/src/main/res/layout/activity_restaurantes.xml" value="0.15" />
         <entry key="..\:/Users/Everton/Desktop/Android Projetos/FoodsAplication/app/src/main/res/layout/cardapiotest.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Everton/Desktop/Android Projetos/FoodsAplication/app/src/main/res/layout/frag_tela_um.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/Everton/Desktop/Android Projetos/FoodsAplication/app/src/main/res/layout/fragment_frag_tela_dois.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Everton/Desktop/Android Projetos/FoodsAplication/app/src/main/res/layout/fragment_frag_tela_tres.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Everton/Desktop/Android Projetos/FoodsAplication/app/src/main/res/layout/fragment_intro_content.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Everton/Desktop/Android Projetos/FoodsAplication/app/src/main/res/layout/loguin_layout.xml" value="0.25" />
       </map>
     </option>
